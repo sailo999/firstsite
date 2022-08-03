@@ -1,2 +1,2 @@
 # firstsite
-sie mama
+site mama
